@@ -1,0 +1,57 @@
+  /* .wrapper {
+      height: auto;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      border: 3px solid red;
+  } */
+  
+  .tbl-full {
+      width: 100%;
+  }
+  
+  table tr th {
+      border-bottom: 2px solid black;
+      padding: 1%;
+      text-align: left;
+  }
+  
+  table tr td {
+      padding: 1%;
+  }
+  
+  .main-content {
+      background-color: #f1f2f6;
+      padding: 3% 0;
+      display: flex;
+      justify-content: center;
+      justify-content: space-around;
+  }
+  
+  .col-4 {
+      background-color: rgb(171, 235, 231);
+      margin: 1%;
+      padding: 2%;
+      display: inline;
+  }
+  
+  .footer {
+      background-color: #ff4757;
+      color: white;
+  }
+  /* copy css  */
+  
+  .login {
+      width: 30%;
+      border: 1px solid red;
+      margin: 5% auto;
+  }
+  
+  .login {
+      background-color: #f1f2f6;
+  }
+  
+  #cimage {
+      width: 200px;
+      height: 150px;
+  }

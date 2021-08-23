@@ -1,0 +1,33 @@
+.container {
+    border: 5px solid red;
+    height: 500px;
+}
+
+.order_system {
+    border: 2px solid green;
+    height: auto;
+}
+
+.table_system {
+    border: 2px solid rgb(97, 221, 97);
+    display: grid;
+    grid-area: 100%;
+    grid-template-columns: repeat(7, 1fr);
+    justify-items: stretch;
+    height: 100px;
+}
+
+.table {
+    border: 1px solid black;
+    height: 40px;
+    margin: 30px;
+    text-align: center;
+}
+
+.order_food {
+    display: flex;
+}
+
+.food-menu-desc {
+    margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+.btn-secondary {
+    background-color: #69c40e;
+    border-radius: 3px;
+    border: 2px solid #6ed408;
+    text-decoration: none;
+}
+
+.btn-target {
+    background-color: #df3011;
+    border-radius: 3px;
+    border: 2px solid #df1d0f;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-primary {
+    background-color: rgb(108, 108, 204);
+    text-decoration: none;
+}
+
+#s_b {
+    background-color: #6ed408;
+}
